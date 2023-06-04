@@ -11,9 +11,8 @@ NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 STOCK_API_KEY = "LUQRV0EWPLGHCOV6"
 NEWS_API_KEY = "6c0ed3db23a441fab08c2ab4f86b95be"
 
-MY_EMAIL = "bhoomika27bulchandani@gmail.com"
-PASSWORD = "jmlmbaqxamlbkgpz"
-
+MY_EMAIL = "xyz@gmail.com" # use your email id
+PASSWORD = "abc12345" # generate a password from email for this by which a third party can access your account
 
 #  [new_value for (key, value) in dictionary.items()]
 stock_params = {
